@@ -3,12 +3,6 @@
 
 Acompañame a traves de mi aprendizaje para convertirme en un data analyst
 
-Como parte del curso 
-
-Google data analyst
-https://www.coursera.org/programs/analisis-de-datos-google-2023-st4ow?currentTab=CATALOG
-
-
 ## 🔗 Links
 
 [Linkedin](https://www.linkedin.com/in/morn-dev/)
