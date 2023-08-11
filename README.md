@@ -11,4 +11,8 @@ https://www.coursera.org/programs/analisis-de-datos-google-2023-st4ow?currentTab
 
 ## 🔗 Links
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/morn-dev/)
+[Linkedin](https://www.linkedin.com/in/morn-dev/)
+
+[Coursera "analisis de datos-Google 2023"](https://www.coursera.org/programs/analisis-de-datos-google-2023-st4ow?)
+
+[Becas - Inroads](https://inroads.org.mx/) (solo México)
