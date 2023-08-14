@@ -1,7 +1,7 @@
 
-# Mi roadmap para data analyst ✨
+# Mi roadmap para data science ✨
 
-Acompañame a traves de mi aprendizaje para convertirme en un data analyst
+Acompañame a traves de mi aprendizaje para convertirme en un data scientist
 
 ## 🔗 Links
 
